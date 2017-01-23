@@ -1,2 +1,2 @@
 # PowershellScrapy
-Web Data Scraping using Powershell and more
+Web Data Scraping [Harvesting] using Powershell and more

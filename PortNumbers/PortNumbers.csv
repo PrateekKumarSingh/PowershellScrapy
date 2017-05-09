@@ -1,4 +1,3 @@
-#TYPE Selected.System.Management.Automation.PSCustomObject
 "Port Number","Service Name","Description"
 "0","","Reserved"
 "0","","Reserved"
